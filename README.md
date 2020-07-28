@@ -7,7 +7,7 @@ __Address__ : 2-78, West street, Peramangalam, Trichy - 621006.
 ----
 ### __Profile__
 
-Engineer with __2+__ years of experience in __Industrial IoT Technologist__, __5+__ years of experience in __Embedded Systems__, firmware development for micro-controllers ane __2+__ years of experience in __Python__ Software development for Linux.
+Engineer with __2+__ years of experience in __Industrial IoT Technologist__, __5+__ years of experience in __Embedded Systems__, firmware development for micro-controllers and __2+__ years of experience in __Python__ Software development for Linux.
 
 ### __Skills__
 
